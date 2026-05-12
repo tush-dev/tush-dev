@@ -34,23 +34,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Kanban Board (Drag & Drop)
-- JavaScript DOM + Event Handling
-- Drag & Drop functionality
-- Real-world UI logic
-
-### 🔹 Zerodha Landing Page Clone
-- Responsive UI
-- Clean design & layout
-- Real-world frontend practice
-
-### 🔹 Valentine Interactive Project ❤️
-- Creative DOM-based project
-- Focus on user interaction & animations
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
