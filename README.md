@@ -130,8 +130,7 @@ I enjoy breaking down engineering concepts into simple and practical explanation
 
 # 🎯 2026 Goals
 
-🚀 Build production-grade full-stack + AI systems  
-💼 Land a strong software engineering internship / full-time role  
+🚀 Build production-grade full-stack + AI systems   
 🧠 Deepen backend engineering + system design skills  
 🌍 Contribute to open source  
 📢 Keep learning publicly and sharing engineering insights  
