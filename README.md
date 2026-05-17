@@ -62,13 +62,13 @@
 An advanced AI application designed to intelligently query GitHub repositories and documents using Retrieval-Augmented Generation (RAG), semantic search, and contextual reasoning.
 
 ### Features
-✅ GitHub repository ingestion  
-✅ Intelligent code/document querying  
-✅ Vector embeddings + semantic retrieval  
-✅ Hybrid search architecture  
-✅ Context-aware AI responses  
-✅ OCR document ingestion  
-✅ Speech-to-text support with AssemblyAI  
+◆ GitHub repository ingestion  
+◆ Intelligent code and document querying  
+◆ Vector embeddings with semantic retrieval  
+◆ Hybrid search architecture  
+◆ Context-aware grounded responses  
+◆ OCR document processing  
+◆ Speech-to-text integration
 
 ### Tech Stack
 `Node.js` • `Express.js` • `LangChain` • `Pinecone` • `AssemblyAI` • `GitHub API` • `Vercel`
@@ -83,12 +83,12 @@ An advanced AI application designed to intelligently query GitHub repositories a
 A full-stack web application for tracking shared expenses, managing balances, and simplifying group financial settlements with a clean and intuitive interface.
 
 ### Features
-✅ Secure user authentication  
-✅ Expense tracking & management  
-✅ Group balance calculations  
-✅ Settlement management  
-✅ Responsive UI  
-✅ REST API backend architecture  
+◆ Secure JWT-based authentication  
+◆ Smart expense tracking and management  
+◆ Dynamic group balance calculations  
+◆ Seamless settlement workflows  
+◆ Responsive modern user interface  
+◆ Scalable REST API backend architecture  
 
 ### Tech Stack
 `React.js` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Vercel`
